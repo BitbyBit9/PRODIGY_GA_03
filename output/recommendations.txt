@@ -1,0 +1,3 @@
+Recommendations for 'Artificial Intelligence Book':
+- Python Programming Book
+- Data Science Course
